@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anaya Lambright</h1>
 <h3 align="center">A natural-born problem solver and passionate Full-Stack developer from New York City.</h3>
 
-- 🌱 I’m currently learning **Node.js, REACT, Python, Postgres**
+- 🌱 I’m currently learning ** Python, Java**
 
 - 📝 I regularly write articles on [https://medium.com/@anayalambright610](https://medium.com/@anayalambright610)
 
