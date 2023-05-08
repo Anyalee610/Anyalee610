@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anaya Lambright</h1>
 <h3 align="center">A natural-born problem solver and passionate Full-Stack developer from New York City.</h3>
 
-- 🌱 I’m currently learning ** Python, Java**
+- 🌱 I’m currently learning  Python, and Java. I am also proficient in Javascript. 
 
 - 📝 I regularly write articles on [https://medium.com/@anayalambright610](https://medium.com/@anayalambright610)
 
