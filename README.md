@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **anayalambright610@gmail.com**
 
-- 📄 Know about my experiences https://docs.google.com/document/d/15D9g5CWH6PiA0aYKe803YcOER3JCFkAP4bJHvAeQpqk/edit?usp=sharing
-
+- 📄 Know about my experiences [anaya_lambright_resume](https://docs.google.com/document/d/1jl2ZXBBOisxsXq0aQbIyc5NhcdiVwe_WcvteU7P4NAk/edit?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anaya-lambright/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anaya" height="30" width="40" /></a>
